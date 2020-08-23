@@ -32,3 +32,4 @@ while True:
         y=eval(''.join(equation_list))
         t.goto(x*x_axis,y*y_axis)
 t.done()
+##################
